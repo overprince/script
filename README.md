@@ -9,7 +9,7 @@ Usage:
 
 | No.      | Bash Command                    
 |----------|---------------------------------
-| 1        | wget https://raw.githubusercontent.com/oooldking/script/master/superspeed.sh      
+| 1        | wget https://raw.githubusercontent.com/overprince/script/master/superspeed.sh      
 | 2        | chmod +x superspeed.sh
 | 3        | ./superspeed.sh
 ```
@@ -23,8 +23,8 @@ Usage:
 
 | No.      | Bash Command                    |
 |----------|---------------------------------|
-| 1        | wget -qO- https://raw.githubusercontent.com/oooldking/script/master/superbench.sh | bash       |
-| 2        | curl -Lso- https://raw.githubusercontent.com/oooldking/script/master/superbench.sh | bash      |
+| 1        | wget -qO- https://raw.githubusercontent.com/overprince/script/master/superbench.sh | bash       |
+| 2        | curl -Lso- https://raw.githubusercontent.com/overprince/script/master/superbench.sh | bash      |
 ```
  
 
