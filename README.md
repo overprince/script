@@ -1,4 +1,7 @@
 # Some Linux scripts
+
+bash <(curl -Lso- https://git.io/superspeed)
+
 ## Superspeed.sh
 - Description: Test your server's network with Speedtest to China
 - Intro:  https://www.oldking.net/305.html
